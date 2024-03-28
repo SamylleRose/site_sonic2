@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/" width="100%" />
+  <img src="assets/Captura de tela 2024-03-19 142009.png" width="100%" />
 </p>
 
 ## 💻 Projeto
