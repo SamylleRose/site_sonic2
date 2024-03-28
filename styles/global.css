@@ -1,0 +1,19 @@
+@import url("./background.css");
+@import url("./header.css");
+@import url("./main.css");
+
+body,
+button,
+a {
+  color: #edf1f7;
+  font: 600 1.25rem "Mukta", sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+  height: 100vh;
+}
